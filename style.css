@@ -1,0 +1,62 @@
+.footwrapper{
+    background-color: grey;
+    border: black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    allign-self: center;
+
+}
+
+#copyright{
+    color: black;
+    font-size: smaller;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    allign-self: center;
+}
+
+#wrapperbuttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-left: 65%;
+    allign-self: center;
+}
+
+#mailfooter{
+    float: right;
+    height: 17px;
+    width: 21px
+}
+
+#facebookfooter {
+    float: right;
+    height: 17px;
+    width: 21px;
+}
+
+#twitterfooter{
+    float: right;
+    height: 17px;
+    width: 21px;
+}
+
+#instafooter{
+    float: right;
+    height: 17px;
+    width: 21px;
+}
+
+.footleft{
+    float: left;
+}
+
+.footright{
+    float:right;
+}
+
+img{
+    margin: 4%;
+}
+
