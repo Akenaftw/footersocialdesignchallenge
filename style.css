@@ -1,5 +1,5 @@
 .footwrapper{
-    background-color: grey;
+    background-color: #7f7f7f;
     border: black;
     display: flex;
     flex-direction: row;
@@ -19,8 +19,7 @@
 #wrapperbuttons{
     display: flex;
     flex-direction: row;
-    justify-content: right;
-    margin-left: 65%;
+    margin-left: 72%;
     allign-self: center;
 }
 
@@ -57,6 +56,10 @@
 }
 
 img{
+    margin: 4%;
+}
+
+p{
     margin: 4%;
 }
 
